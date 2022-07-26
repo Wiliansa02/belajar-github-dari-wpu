@@ -1,4 +1,5 @@
 Rencana minggu ini
 -menyelesaikan materi Git
 -menyelesaikan tugas ditiap materi
+ *setiap tugas harus mendapatkan approval mentor
 -belajar materi berikutnya
