@@ -1,3 +1,4 @@
 Rencana minggu ini
 -menyelesaikan materi Git
 -menyelesaikan tugas ditiap materi
+-belajar materi berikutnya
