@@ -3,3 +3,4 @@ Resolusi 3 bulan kedepan di th 2022
 -Menyelesaikan video materi yang harus dipelajari
 -Mengerjakan tugas disetiap materi video
 -Memperbanyak portofolio
+-Belajar GIT dan Github
